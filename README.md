@@ -1,6 +1,6 @@
 # Shadow Shield
 
-**Shadow Shield** is a simple project designed to explore data privacy and protection when interacting with cloud LLMs.
+**Shadow Shield** is a simple project to keep your personal data (PII) safe when sending messages to cloud LLMs.
 
 <video src="https://github.com/user-attachments/assets/2e14460e-6fb2-41c4-a51f-2874b8a3041a" controls width="100%"></video>
 
