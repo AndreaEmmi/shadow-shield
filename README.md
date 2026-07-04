@@ -2,7 +2,7 @@
 
 **Shadow Shield** is a simple project to keep your personal data (PII) safe when sending messages to cloud LLMs.
 
-<video src="https://github.com/user-attachments/assets/2e14460e-6fb2-41c4-a51f-2874b8a3041a" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/4d4b5a44-1381-4adb-8e1c-56bdf6e95a56" controls width="100%"></video>
 
 ## The Problem
 
